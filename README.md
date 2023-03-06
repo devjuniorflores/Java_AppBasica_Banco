@@ -10,3 +10,4 @@ El botón "Salir" cierra la ventana y muestra la ventana de inicio de sesión.
 
 ![image](https://user-images.githubusercontent.com/105132321/222993709-96444e74-d742-4104-84ce-79e80e7336c5.png)
 
+![image](https://user-images.githubusercontent.com/105132321/222993771-37b8aff9-c07d-48c5-9082-4d7ff3abcc21.png)
