@@ -1,4 +1,4 @@
-# Aplicacion basica usando Java 
+# Aplicacion básica usando Java 
 La aplicación es un formulario de inicio de sesión que utiliza Swing para la interfaz gráfica de usuario y tiene dos campos de entrada de texto 
 para el nombre de usuario y la contraseña. Si las credenciales ingresadas por el usuario son correctas, se muestra una ventana de bienvenida 
 que incluye el nombre del usuario que acaba de iniciar sesión. La aplicación también es una implementación de una interfaz de control de cajero 
