@@ -8,4 +8,5 @@ La aplicación permite depositar, retirar y consultar el saldo actual en la cuen
 El botón "Salir" cierra la ventana y muestra la ventana de inicio de sesión.
 
 
+![image](https://user-images.githubusercontent.com/105132321/222993709-96444e74-d742-4104-84ce-79e80e7336c5.png)
 
